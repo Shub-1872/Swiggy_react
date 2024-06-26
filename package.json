@@ -1,0 +1,27 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "react",
+  "scripts": {
+    "start": "parcel lec51.html",
+    "build": "parcel build lec51.html",
+    "test": "jest"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "shubham jaiswal",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browserslist": [
+    "last 2 chrome version"
+  ]
+}

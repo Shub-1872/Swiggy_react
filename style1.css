@@ -1,0 +1,9 @@
+/* npx is similar to the npm it means that executing the packaging 
+to bring the react using the cdn link is not the good way for the production 
+we will so using the package.jdon
+we will install the react npm install react and then go for the npm install react dom and then for going to the sever
+use the case of the npx parcel filename.html se we will go to the server
+ her do not use the  cdn link to avoid the use of the cdn link we have use the install react but to bring those react in the js file we need to use the import react and import reactDom
+ npx parcel  bundle index1.html then we will get the error as we are trying to change the entry point to our file 
+ so we will change the main
+ bundlers,parecle,parcle cache,git ignore */
